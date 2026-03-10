@@ -1,6 +1,6 @@
-# This is for Code Platoon Alpha DevOps cohort '23.
+# DevOps for Code Platoon.
 
-## Proj 1. Ansible and Terraform Assessment for CP Alpha DevOps 
+## 1. Ansible and Terraform  
 See files for this project in the [mattAssess2AnsibleTF/](https://github.com/adasMatt/w05Ansible/tree/master/mattAssess2AnsibleTF) directory.
 A brief summary:
 - Used Terraform to launch EC2 instances with only ssh permission for master node, http & desired port forwarding (9876 for this project) permission for target nodes (see [terraform files](https://github.com/adasMatt/w05Ansible/tree/master/mattAssess2AnsibleTF/terraform) for more details)
